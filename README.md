@@ -20,10 +20,7 @@ This project turns any Shopify (or compatible) product page into a modern vertic
 ## 🛠️ Setup Instructions
 
 1. Clone the repo:
-git clone https://github.com/yourname/ai-product-video-generator.git
-cd ai-product-video-generator
-
-OPENAI_API_KEY=your_openai_key_here
+git clone
 
 2. Create Environment File
 In the backend/ directory, create a .env file:
