@@ -1,8 +1,5 @@
 # AI Product Video Generator (Chima Full Stack Case Study)
 
-## 🎯 Loom Video
-Link: https://www.loom.com/share/f7afb8dfe1544f8f9fc87e5b3486f8d9?sid=52c27776-b8ba-4149-8090-b1b3eba3e77f
-
 ## 🎯 Sample Videos
 Inside `backend/generated`
 
